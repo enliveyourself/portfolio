@@ -1,0 +1,10 @@
+:root {
+  --color-primary: rgb(221, 241, 170);
+  --shadow-primary: 0px 4px 15px rgba(53, 55, 64, 0.1);
+  --shadow-secondary: 0px 4px 10px rgba(53, 55, 64, 0.05);
+}
+
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
